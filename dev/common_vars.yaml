@@ -1,0 +1,4 @@
+---
+terraform: "terragrunt"
+state_name: "rjrpaz-tf-live"
+region: "us-east-1"
